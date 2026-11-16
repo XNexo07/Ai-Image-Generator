@@ -1,0 +1,6 @@
+{
+  "name": "Bildwerk – Unabhängiges KI-Bildstudio",
+  "description": "Erstelle KI-Bilder mit Open-Source-Diffusionsmodellen, Hugging Face, lokalen Stable-Diffusion-Servern oder prozeduraler Synthese – komplett ohne Google-API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
